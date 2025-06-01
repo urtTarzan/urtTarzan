@@ -1,4 +1,4 @@
-# Estudante de Python e Análise de Dados  
+# Estudante de Python e Análise de Dados  :smiling_face_with_sunglasses:
 | Em busca da **primeira oportunidade na área** |  
 
 ## sobre mim:
