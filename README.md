@@ -2,7 +2,7 @@
 | Em busca da **primeira oportunidade na área** |  
 
 ## sobre mim:
-cursando o primeiro ano de analise e desenvolvimento de sistemas na etec, estudando programação a 2 anos, pretendo crescer e me estabilizar na area.
+tenho 15 anos, estou cursando o primeiro ano de analise e desenvolvimento de sistemas na etec, estudando programação a 2 anos, pretendo crescer e me estabilizar na area.
 
 ### ingles medio  
 ### comunicativo
