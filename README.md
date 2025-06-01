@@ -4,7 +4,7 @@
 ## sobre mim:
 tenho 15 anos, estou cursando o primeiro ano de analise e desenvolvimento de sistemas na etec, estudando programação a 2 anos, pretendo crescer e me estabilizar na area.
 
-### ingles medio  
+### ingles médio  
 ### comunicativo
 ### bom trabaho em equipe  
 ### aprendo rapido
