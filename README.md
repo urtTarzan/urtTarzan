@@ -15,4 +15,4 @@ tenho 15 anos, estou cursando o primeiro ano de analise e desenvolvimento de sis
 - css  
 - python  
   - manipulação de arquivos  
-  - pandas e analise de dados  
+  - **pandas** e analise de dados  
