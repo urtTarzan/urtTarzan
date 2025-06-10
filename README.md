@@ -1,18 +1,30 @@
-# Estudante de Python e Análise de Dados 😎  
-| Em busca da **primeira oportunidade na área** |  
+| Em busca da **primeira oportunidade na área de TI** |
 
-## sobre mim:
-tenho 15 anos, estou cursando o primeiro ano de analise e desenvolvimento de sistemas na etec, estudando programação a 2 anos, pretendo crescer e me estabilizar na area.
+## Sobre mim:
+Tenho 16 anos, atualmente curso o 1º ano de Análise e Desenvolvimento de Sistemas na ETEC.  
+Estudo programação há 1 ano com foco em **Python**, **bancos de dados** e **análise de dados**.  
+Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia, especialmente no setor de dados.
 
-### ingles médio  
-### comunicativo
-### bom trabaho em equipe  
-### aprendo rapido
+## Soft Skills:
+- Inglês intermediário (leitura 100% / conversação em progresso)
+- Comunicativo e bom trabalho em equipe
+- Aprendo rápido e gosto de resolver problemas
+- Proativo e sempre buscando aprender algo novo
 
-# SKILS ==>  
-- sql  
-- html  
-- css  
-- python  
-  - manipulação de arquivos  
-  - **pandas** e analise de dados  
+## 💻 Hard Skills:
+- **Python**
+  - Manipulação de arquivos
+  - Automação de tarefas
+  - Análise de dados com Pandas
+- **SQL**
+  - MySQL intermediário
+- **HTML & CSS**
+  - Conhecimento básico / intermediario para estruturação de páginas
+
+---
+
+📌 Atualmente desenvolvendo projetos com foco em:
+- Automação de tarefas
+- Filtros, exportações e organização de dados com Python
+
+🚀 Em busca de oportunidades para aplicar meu conhecimento na prática, aprender com profissionais da área e evoluir como futuro analista ou cientista de dados.
