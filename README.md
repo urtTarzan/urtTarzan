@@ -16,7 +16,7 @@ Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia
   - Manipulação de arquivos
   - Automação de tarefas
   - Análise de dados com Pandas
-- **SQL**
+- **Banco de Dados**
   - MySQL intermediário
 - **HTML & CSS**
   - Conhecimento básico / intermediario para estruturação de páginas
