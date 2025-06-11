@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 Tenho 16 anos, atualmente curso o 1º ano de Análise e Desenvolvimento de Sistemas na ETEC.  
-Estudo programação há 1 ano com foco em **Python**, **bancos de dados** e **análise de dados**.  
+Estudo programação há 1 ano com foco em **Python** e **análise de dados**.  
 Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia, especialmente no setor de dados.
 
 ## Soft Skills:
@@ -16,6 +16,7 @@ Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia
   - Manipulação de arquivos
   - Automação de tarefas
   - Análise de dados com Pandas
+  - APIs com request
 - **Banco de Dados**
   - MySQL intermediário
 - **HTML & CSS**
