@@ -16,7 +16,7 @@ Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia
   - Manipulação de arquivos
   - Automação de tarefas
   - Análise de dados com Pandas
-  - APIs com request
+  - manipulação de dados via APIs
   - desenvolvimento web com flask
 - **Banco de Dados**
   - MySQL intermediário
