@@ -33,3 +33,7 @@ Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia
 - Filtros, exportações e organização de dados com Python
 
 🚀 Em busca de oportunidades para aplicar meu conhecimento na prática, aprender com profissionais da área e evoluir como futuro analista ou cientista de dados.
+
+
+![Top Languages](https://img.shields.io/github/languages/top/username/repo?color=blue)
+
