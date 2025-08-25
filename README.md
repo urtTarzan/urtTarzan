@@ -43,5 +43,5 @@ Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia
 
 🚀 Em busca de oportunidades para aplicar meu conhecimento na prática, aprender com profissionais da área e evoluir para um full stack no futuro
 
-### 📊 Linguagens mais usadas
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urtTarzan&layout=compact&langs_count=8)
