@@ -2,9 +2,10 @@
 
 ## Sobre mim:
 Tenho 16 anos, atualmente curso o 1º ano de Análise e Desenvolvimento de Sistemas na ETEC.  
-Estudo programação há 1 ano com foco em **Python**,**análise de dados**.  
+Estudo programação há 1 ano e meio com foco em **Python**,**análise de dados**.  
+tenho muito interesse por back-end e banco de dados, alem de ser bom nisso coloco em pratica reculargemnte em projetos para me familiarizar.  
 atualmente tenho melhorado minhas habilidade como **engenheiro de software em django**.
-Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia, especialmente no setor de dados.
+Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia, especialmente como back-end ou na parte de dados.
 
 ## Soft Skills:
 - Inglês intermediário (leitura 100% / conversação em progresso)
@@ -32,8 +33,4 @@ Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia
 - Automação de tarefas
 - Filtros, exportações e organização de dados com Python
 
-🚀 Em busca de oportunidades para aplicar meu conhecimento na prática, aprender com profissionais da área e evoluir como futuro analista ou cientista de dados.
-
-
-curl https://api.github.com/users/urtTarzan/repos
-
+🚀 Em busca de oportunidades para aplicar meu conhecimento na prática, aprender com profissionais da área e evoluir para um full stack no futuro
