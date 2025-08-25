@@ -37,7 +37,8 @@ Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia
 ---
 
 📌 Atualmente desenvolvendo projetos com foco em:
-- Automação de tarefas
-- Filtros, exportações e organização de dados com Python
+- versionamento de codigo.
+- cotrole de permissão de ususarios
+- projetos reais com ultilidades reais 
 
 🚀 Em busca de oportunidades para aplicar meu conhecimento na prática, aprender com profissionais da área e evoluir para um full stack no futuro
