@@ -30,6 +30,7 @@ Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia
   <p><br>
   outros
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 
 
