@@ -8,7 +8,7 @@ atualmente tenho melhorado minhas habilidade como **engenheiro de software em dj
 Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia, especialmente como back-end ou na parte de dados.
 
 ## Soft Skills:
-- Inglês intermediário (leitura 100% / conversação em progresso)
+- Inglês avançado (leitura 100% / conversação em progresso)
 - Comunicativo e bom trabalho em equipe
 - Aprendo rápido e gosto de resolver problemas
 - Proativo e sempre buscando aprender algo novo
