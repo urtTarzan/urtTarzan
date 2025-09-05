@@ -4,7 +4,7 @@
 Tenho 16 anos, atualmente curso o 1º ano de Análise e Desenvolvimento de Sistemas na ETEC.  
 Estudo programação há 1 ano e meio com foco em **Python**,**análise de dados**.  
 tenho muito interesse por back-end e banco de dados, alem de ser bom nisso coloco em pratica reculargemnte em projetos para me familiarizar.  
-atualmente tenho melhorado minhas habilidade como **engenheiro de software em django**.
+atualmente tenho melhorado minhas habilidade como **engenheiro de software em django**.a
 Meu objetivo é crescer profissionalmente e me consolidar na área de tecnologia, especialmente como back-end ou na parte de dados.
 
 ## Soft Skills:
