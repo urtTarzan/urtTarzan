@@ -43,6 +43,6 @@ My goal is to grow professionally and establish myself in the tech industry, esp
 - Real projects with practical utilities  
 - Dockerizing applications  
 
-🚀 Seeking opportunities to apply my knowledge in practice, learn from professionals in the field, and evolve into a full-stack developer in the future.  
+🚀 Seeking opportunities to apply my knowledge in practice, learn from professionals in the field, and evolve into a back-end developer in the future.  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urtTarzan&layout=compact&langs_count=8)
